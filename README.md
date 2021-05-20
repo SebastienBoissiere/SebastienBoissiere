@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SSW.People and SSW.Rules
 - 💬 Ask me about Gatsby, React, .Net
 - 📫 How to reach me: 
   - [Twitter](@boissiere_Seb)
